@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_favorite">Favorite</string>
+    <string name="image_food">Image Food</string>
+    <string name="name_food">Food</string>
+    <string name="dummyWord">Lorem Ipsum</string>
+    <string name="instruction">Instruction</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="measure">Measure</string>
+    <string name="something_wrong">Oops.. Something went wrong</string>
+    <string name="fab_favorite">Favorite</string>
+    <string name="empty">Favorite list is empty</string>
+    <string name="meal_logo">Meal logo</string>
+</resources>
