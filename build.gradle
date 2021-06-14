@@ -27,6 +27,7 @@ buildscript {
     ext.navigation_fragment_version = "2.3.5"
     repositories {
         google()
+        jcenter()
         mavenCentral()
     }
     dependencies {
